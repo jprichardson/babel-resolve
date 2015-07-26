@@ -47,4 +47,4 @@ License
 -------
 MIT
 
-Copyright (c) [JP Richardson][https://github.com/jprichardson]
+Copyright (c) [JP Richardson](https://github.com/jprichardson)

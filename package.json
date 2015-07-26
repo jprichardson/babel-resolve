@@ -1,6 +1,6 @@
 {
   "name": "babel-resolve",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create a resolve function for babel/register.",
   "main": "index.js",
   "scripts": {
